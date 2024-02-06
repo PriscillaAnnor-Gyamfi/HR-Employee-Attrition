@@ -101,7 +101,7 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 <br />
   <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FkjkBFU.png" height="auto" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
