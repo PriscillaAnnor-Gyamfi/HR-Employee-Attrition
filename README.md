@@ -77,13 +77,16 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 <h2>Language Used</h2>
 
-- <b>Python</b>
+- <b>Microsoft Excel</b>
+- <b>Tableau</b>
+ 
+
  
 
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> 
+- <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
 <h2>Graphical Representations of some Key findings:</h2>
@@ -92,7 +95,7 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 <p align="center">
  <br/>
-<img src="https://www.istockphoto.com/vector/human-resource-recruitment-selection-process-illustration-gm1054456038-281745905?phrase=employee%20attrition&searchscope=image%2Cfilm" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QuF3OyL.jpg" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <br/>
