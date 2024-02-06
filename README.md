@@ -3,7 +3,7 @@
 
 
 <h2>Problem Statement</h2>
-How can the attrition rate at Lenovo be reduced by 10% within the next year?
+How can the attrition rate at Lenovo be reduced by 10% within the next 12 months?
 
 
 <h2>Background</h2>
@@ -23,17 +23,22 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 <h2>Key Findings</h2>
 
-- <b>Hotel Type: The City hotel receives the highest patronage, totaling 79,330 bookings, surpassing the Resort hotel. However, City hotels also experienced the highest number of cancellations compared to the 
-     Resort hotel.</b>
-- <b>Peak Booking Periods: August emerges as the peak booking period with 13,877 bookings, followed by July and May. These months coincide with the summer season, a time when vacation travel is prevalent. </b>
-- <b>Demographic Preferences: Approximately 28.6% of all guests originated from Portugal, followed by Great Britain, France, Spain, and Germany. This suggests that the majority of hotel guests hail from European 
-     countries.</b>
-- <b>Market Segments/Booking channels: Online Travel Agencies (OTAs) accounted for 47.3% of total bookings, amounting to 56,477 reservations. </b>
-- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal recorded the highest Average Daily Rate of $5,400 at a City hotel, without eligibility for a refund.</b>
-- <b>Cancellation Rates: The absence of deposits for most bookings contributed to a significant number of cancellations. Deposits serve as a commitment indicator for guests to honor their reservations.</b>
-- <b>Customer Retention: Repeated guests comprise only 3.19% of total bookings, indicating that the majority of reservations are made by first-time guests or customers.</b>
- 
- 
+- <b>Male employees, those aged between 18-30, and single individuals exhibit the highest attrition rates within the company.</b>
+- <b>Employees with backgrounds in Human Resources and college education demonstrate elevated attrition rates.</b>
+- <b>The Research Director role shows the highest attrition rate among job positions, indicating potential areas for targeted retention efforts.</b>
+- <b>Attrition tends to occur most frequently within the first four years of employment and during the initial five years under the current manager, with delays in promotions contributing to an 18% increase in 
+     attrition within the 6-10 year category.</b>
+- <b>Survey results assessing employee job involvement, satisfaction, and environmental factors provide insights into the underlying causes of the company's high attrition rates.</b>
+- <b>Poor work-life balance, particularly among employees residing far from the workplace or those frequently traveling for business, correlates with higher attrition rates.</b>
+- <b>Frequent business travel, particularly among Research Directors and Healthcare Representatives, is associated with higher attrition rates, reaching 33%.</b>
+- <b>Lower monthly incomes, prevalent among employees in the Human Resources department and those aged 51-60, contribute to elevated attrition rates.</b>
+- <b>Inadequate training on job roles and skills leads to increased attrition rates, highlighting the importance of investing in employee development programs.</b>
+- <b>Despite receiving significant salary hikes, employees still leave, indicating that additional factors beyond financial compensation influence attrition.</b>
+- <b>Employees aged 18-30, typically within their initial 0-4 years at the company, exhibit high attrition rates regardless of the number of training opportunities provided.</b>
+- <b>Age, total working years, years at the company, and years with the current manager show weak negative correlations with attrition, suggesting potential areas for further investigation.</b>
+- <b>Variables with P-values < 0.05 in regression analysis, highlighted in yellow, are statistically significant and reliable for predicting attrition trends.</b>
+
+
 
 
 <h2>Recommendations</h2>
