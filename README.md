@@ -1,5 +1,10 @@
 <h1>HR Employee Attrition</h1>
 
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/QuF3OyL.jpg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 
 <h2>Problem Statement</h2>
@@ -93,20 +98,9 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 
 
-<p align="center">
- <br/>
-<img src="https://i.imgur.com/QuF3OyL.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
 <br />
   <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Hotel Types and Cancellations:  <br/>
 <img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
