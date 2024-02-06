@@ -13,7 +13,7 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
 <h2>Objectives</h2>
 
- - <b>Identify employee categories with the highest attrition rates.</b>
+ - <b>Identify the employee categories outlined in the data provided with their respective attrition rates.</b>
  - <b>Investigate correlations between specific employee categories and their impact on attrition rates.</b>
  - <b>Conduct regression analysis to understand the relationship between various variables and their influence on attrition rates.</b>
  - <b>Provide recommendations based on analysis to mitigate annual attrition rates and foster employee retention.</b>
