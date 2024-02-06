@@ -94,16 +94,6 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 - <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-<h2>Graphical Representations of some Key findings:</h2>
-
-
-
-
-<br />
-  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="auto" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 
 
 <!--
