@@ -80,7 +80,7 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 <br />
 
 
-<h2>Language Used</h2>
+<h2>Tools Used</h2>
 
 - <b>Microsoft Excel</b>
 - <b>Tableau</b>
@@ -88,13 +88,13 @@ Lenovo grapples with a notable attrition rate of 16% among its 4,411 employees a
 
  
 
-
 <h2>Environments Used </h2>
 
 - <b>Tableau Public</b> 
 - <b>Windows 10</b> 
 
-
+<b>Graphical Representations in Tableau [here](https://public.tableau.com/app/profile/priscilla.annor.gyamfi/viz/ATTRITIONANALYSISFORCOMPANYXYZ/Story1)
+</b>
 
 <!--
  ```diff
